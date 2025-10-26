@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matias Daniel Alessandrello
-- 👀 I’m interested in FullStack using React - Node.js - and using Python - Django in the National University Guillermo Brown in Buenos Aires 
+- 👀 I’m interested in FullStack using Next.js - Node.js - and using Python/Django in the National University Guillermo Brown in Buenos Aires 
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on Software Development, Web Design, Backend, Testing, UML diagrams, documentation of software production and Music too!
 - 📫 How to reach me: matialess@gmail.com
